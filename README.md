@@ -7,15 +7,15 @@
 ## Games I've worked on
 <p align="center">
   <h3 align="center"><ins> Deadzone: Aberration </ins></h3>
-  <a href="https://youtu.be/eFXnF16qb4w?si=zg9Q_vzFGHK4h7cj">
+  <a href="https://www.coynem.com/games/deadzone-aberration">
     <img src="https://github.com/C22416392/C22416392/assets/124162678/847de67a-0184-41f8-a412-cce2c63ecd15" />
   </a>
   
-  <a href="https://youtu.be/03_p1_Hj9X0?si=Jeg0D-UOsk9PVqgP">
+  <a href="https://www.coynem.com/games/sumo-strikers">
     <img src="https://github.com/C22416392/C22416392/assets/124162678/df52501a-5c91-4a45-9d38-1c785a0f05b2" width=49% />
   </a>
   
-  <a href="https://youtu.be/pvPNeR1LM4w?si=MOpaGXCKzN1J0z35&t=99">
+  <a href="https://www.coynem.com/games/miscreation">
     <img src="https://github.com/C22416392/C22416392/assets/124162678/02f63487-417e-4d1b-9abb-ece7c1223a66" width=49% />
   </a>
 </p>
